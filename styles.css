@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    font-family: 'bradley hand';
+}
+button {
+    font-family: 'bradley hand';
+    background-color: coral;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    display: grid;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+    background-color: #ece6dc;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
+.colorChange {
+    background-color: black;
+}
